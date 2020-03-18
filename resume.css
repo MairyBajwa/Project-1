@@ -1,0 +1,14 @@
+body{
+  font-family: sans-serif;
+  background-color: #e3e3e3;
+}
+.main-img {
+  border: solid black 2px;
+  border-radius: 50%;
+}
+h1{
+  background-color: #464646;
+  padding: 5px;
+  color: #FFFFFF;
+
+}
